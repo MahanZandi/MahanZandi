@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahan Zandi</h1>
-<h3 align="center">Im Front End Developer (React/Next/React native)</h3>
+<h3 align="center">Im Front End Developer (React js / Next js / React native)</h3>
 
 - 🔭 I’m currently working on winki.ir thats e commerce website [winki project](https://winki.ir/)
 
