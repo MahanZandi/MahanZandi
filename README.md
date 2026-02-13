@@ -1,6 +1,26 @@
 # 💫 About Me:
-## My Name is Mahan Im Front end developer.
+<h1 align="center">Hi 👋, I'm Mahan Zandi</h1>
+<h3 align="center">Im Front End Developer (React/Next/React native)</h3>
 
+- 🔭 I’m currently working on winki.ir thats e commerce website [winki project](https://winki.ir/)
+
+- 🌱 I’m currently learning **React Native**
+
+- My Portfolio [Portfolio](https://www.mahanzandi.ir/)
+
+- nobito project demo is done [nobito](https://nobito-demo.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://www.mahanzandi.ir/](https://www.mahanzandi.ir/)
+
+- 📝 I regularly write articles on [https://virgool.io/@zandim221](https://virgool.io/@zandim221)
+
+- skills **React js , Next js , Typescipt , Three js , React native , Tailwind , zustand , axios , tanstack query , ...**
+
+- 📫 How to reach me **zandim221@gmail.com**
+
+- 📄 Know about my experiences [https://www.mahanzandi.ir/](https://www.mahanzandi.ir/)
+
+- ⚡ Fun fact **I love coffee**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahan.zandi.85) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ mahanZandi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([YouTube Name: MAHAN AZ](https://youtube.com/@mahanalvarzandi?si=3CTgifCinGF4EHUI)) 
