@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Mahan Zandi</h1>
 <h3 align="center">Im Front End Developer (React/Next/React native)</h3>
 
