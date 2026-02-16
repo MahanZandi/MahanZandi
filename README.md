@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://www.mahanzandi.ir/](https://www.mahanzandi.ir/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@zandim221) & 
-[https://virgool.io/@zandim221](https://virgool.io/@zandim221)
+[virgool](https://virgool.io/@zandim221)
 
 - skills **React js , Next js , Typescipt , Three js , React native , Tailwind , zustand , axios , tanstack query , ...**
 
