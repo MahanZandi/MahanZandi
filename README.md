@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahanzandi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahanzandi/" height="30" width="40" /></a>
-
+ <br/>
   <a href="https://t.me/+989395526996">My Telegram</a>
-<br/>
+<br/> <br/>
   <span>phone : +98 939 552 6996 <span/>
 </p>
 
