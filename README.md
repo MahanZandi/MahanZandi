@@ -2,7 +2,7 @@
 
 # 👋 Mahan Zandi
 
-### Senior Frontend Engineer
+### Frontend Engineer
 
 **Building Scalable & Performance-Optimized Web Applications**
 
