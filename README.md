@@ -27,7 +27,7 @@
   <br/> <br/>
   <a href="https://t.me/+989395526996">My Telegram</a>
   <br/> <br/>
-  <a href= "tel:98 911 177 4105">phone : +98 939 552 6996 <a/>
+  <a href="tel:989395526996">phone : +98 939 552 6996 <a/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
