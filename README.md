@@ -9,7 +9,7 @@ I build scalable, performance-focused and user-centered web applications.
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Winki** – an E-commerce platform  
+- 🔭 Currently working on **Winki** – an e-commerce platform  
   👉 https://winki.ir/
 
 - 🌱 Currently learning **React Native**
@@ -18,14 +18,13 @@ I build scalable, performance-focused and user-centered web applications.
   **Medium** → https://medium.com/@zandim221  
   **Virgool** → https://virgool.io/@zandim221
 
-- ⚡ Fun fact: I love coffee ☕
-
 ---
 
 ### 🌐 Portfolio & Projects
 
-- 🌍 Portfolio → https://www.mahanzandi.ir/
-- 🧪 Nobito Demo → https://nobito-demo.vercel.app/
+- 🧠 Main Portfolio → https://www.mahanzandi.ir/
+- 📦 Project Demo: Nobito → https://nobito-demo.vercel.app/
+- 🌟 FDarya Showcase → https://fdarya.com/
 
 ---
 
@@ -47,10 +46,10 @@ Three.js • Git • Linux • Docker • Figma
 
 ### 📫 Contact Me
 
-- 📧 Email: zandim221@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mahanzandi
-- 📱 Telegram: https://t.me/+989395526996
-- 📞 Phone: +98 939 552 6996
+- ✉️ Email: zandim221@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mahanzandi  
+- 📱 Telegram: https://t.me/+989395526996  
+- ☎️ Phone: +98 939 552 6996
 
 ---
 
