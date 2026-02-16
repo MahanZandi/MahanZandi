@@ -108,17 +108,6 @@ I regularly share insights on frontend development, best practices, and real-wor
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahanzandi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahanzandi&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
